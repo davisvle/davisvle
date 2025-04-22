@@ -1,6 +1,6 @@
 # Hi there, I'm Davis 👋
 
-🎯 **Aspiring Data Analyst** | 💼 Currently a Support Analyst  
+🎯 **Aspiring Data Analyst** | 💼 Currently an IT Support Analyst  
 🎓 Pursuing my M.S. in Data Analytics @ WGU (in progress)  
 
 ---
