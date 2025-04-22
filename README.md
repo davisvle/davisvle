@@ -7,7 +7,7 @@
 
 ## 💻 About Me
 
-I'm a support analyst transitioning into the world of data analytics. With a background in troubleshooting and systems support, I'm now focused on turning data into insights that drive decisions.
+I'm an IT support analyst transitioning into the world of data analytics. With a background in troubleshooting and systems support, I'm now focused on turning data into insights that drive decisions.
 
 Currently, I'm expanding my skills in:
 
