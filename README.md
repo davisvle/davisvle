@@ -4,6 +4,10 @@
 ☁️ Cloud · Identity & Access · Endpoint Security · Automation
 🎓 Pursuing my M.S. in Data Analytics (Data Engineering) @ WGU
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-davisle345.github.io-4ca6c9?style=for-the-badge&logo=githubpages&logoColor=white)](https://davisle345.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-davisle345-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davisle345)
+[![Email](https://img.shields.io/badge/Email-davisle345@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davisle345@gmail.com)
+
 ---
 
 ## 💻 About Me
@@ -33,7 +37,7 @@ Open to **Systems Administrator, IT Engineer, and Cloud/IT Operations** roles in
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Identity, Security & Tools**
+**Tools & Collaboration**
 
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -61,6 +65,6 @@ Open to **Systems Administrator, IT Engineer, and Cloud/IT Operations** roles in
 
 ## 📫 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/davisle345) · [Email](mailto:davisle345@gmail.com)
+🌐 [Portfolio](https://davisle345.github.io) · [LinkedIn](https://www.linkedin.com/in/davisle345) · [Email](mailto:davisle345@gmail.com)
 
 Thanks for stopping by!
