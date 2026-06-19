@@ -4,9 +4,9 @@
 ☁️ Cloud · Identity & Access · Endpoint Security · Automation
 🎓 Pursuing my M.S. in Data Analytics (Data Engineering) @ WGU
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-davisle345.github.io-0a7ea4?style=for-the-badge&logo=githubpages&logoColor=white)](https://davisle345.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-davisle345-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davisle345)
-[![Email](https://img.shields.io/badge/Email-davisle345@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davisle345@gmail.com)
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-davisle345.github.io-0a7ea4?style=for-the-badge&logo=globe&logoColor=white)](https://davisle345.github.io)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-davisle345-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davisle345)
+[![Email](https://custom-icon-badges.demolab.com/badge/Email-davisle345@gmail.com-EA4335?style=for-the-badge&logo=mail&logoColor=white)](mailto:davisle345@gmail.com)
 
 ---
 
