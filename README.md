@@ -19,10 +19,28 @@ Open to **Systems Administrator, IT Engineer, and Cloud/IT Operations** roles in
 
 ## 🛠️ What I Work With
 
-- **Cloud & Infrastructure:** AWS (EC2, IAM, SSM, S3, CLI) · Windows Server / IIS · Linux · macOS
-- **Identity & Access:** JumpCloud SSO · Google Workspace · MFA · role/group-based, least-privilege access
-- **Security & Compliance:** Qualys · Trend Micro · Vanta (SOC 2 / HIPAA) · CompTIA Security+ (SY0-701)
-- **Automation & Scripting:** PowerShell · Python · Bash · SQL (PostgreSQL)
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+**Automation & Scripting**
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Identity, Security & Tools**
+
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-CC0000?style=for-the-badge&logo=comptia&logoColor=white)
+
+> Also: JumpCloud SSO/MDM · Qualys · Trend Micro · Vanta (SOC 2 / HIPAA) — no official logos, listed here.
 
 ---
 
@@ -34,6 +52,13 @@ Open to **Systems Administrator, IT Engineer, and Cloud/IT Operations** roles in
   least-privilege group consolidation.
 - 🪪 **Identity migration to SSO** — moved manual IAM users to JumpCloud SSO with role/group-based
   access and centralized, audit-ready identity.
+
+---
+
+## 📈 Currently Growing
+
+- Deepening cloud and systems engineering skills (working toward an AWS certification)
+- Applying my M.S. in Data Analytics to bring data and automation into IT operations
 
 ---
 
