@@ -38,7 +38,6 @@ Open to **Systems Administrator, IT Engineer, and Cloud/IT Operations** roles in
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-CC0000?style=for-the-badge&logo=comptia&logoColor=white)
 
 > Also: JumpCloud SSO/MDM · Qualys · Trend Micro · Vanta (SOC 2 / HIPAA) — no official logos, listed here.
 
