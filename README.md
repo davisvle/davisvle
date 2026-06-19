@@ -39,7 +39,12 @@ Open to **Systems Administrator, IT Engineer, and Cloud/IT Operations** roles in
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-> Also: JumpCloud SSO/MDM · Qualys · Trend Micro · Vanta (SOC 2 / HIPAA) — no official logos, listed here.
+**Identity, Security & Compliance**
+
+![JumpCloud](https://img.shields.io/badge/JumpCloud-3B82F6?style=for-the-badge)
+![Qualys](https://img.shields.io/badge/Qualys-ED2E26?style=for-the-badge)
+![Trend Micro](https://img.shields.io/badge/Trend%20Micro-D71920?style=for-the-badge)
+![Vanta](https://img.shields.io/badge/Vanta%20(SOC%202%20%2F%20HIPAA)-6457F9?style=for-the-badge)
 
 ---
 
@@ -51,13 +56,6 @@ Open to **Systems Administrator, IT Engineer, and Cloud/IT Operations** roles in
   least-privilege group consolidation.
 - 🪪 **Identity migration to SSO** — moved manual IAM users to JumpCloud SSO with role/group-based
   access and centralized, audit-ready identity.
-
----
-
-## 📈 Currently Growing
-
-- Deepening cloud and systems engineering skills (working toward an AWS certification)
-- Applying my M.S. in Data Analytics to bring data and automation into IT operations
 
 ---
 
