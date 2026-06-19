@@ -37,13 +37,6 @@ Open to **Systems Administrator, IT Engineer, and Cloud/IT Operations** roles in
 
 ---
 
-## 📈 Currently Growing
-
-- Deepening cloud and systems engineering skills (working toward an AWS certification)
-- Applying my M.S. in Data Analytics to bring data and automation into IT operations
-
----
-
 ## 📫 Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/davisle345) · [Email](mailto:davisle345@gmail.com)
