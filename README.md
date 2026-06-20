@@ -54,12 +54,15 @@ Open to **Systems Administrator, IT Engineer, and Cloud/IT Operations** roles in
 
 ## 🚀 Things I've Built
 
-- 🔐 **SSL/TLS certificate rotation pipeline** (PowerShell) — pulls certs from S3, imports, rebinds
-  HTTPS bindings, and cleans up, with secrets handled securely end to end.
-- 🧹 **IAM permission audit tool** (Python/boto3) — flags over-privileged access and proposes
-  least-privilege group consolidation.
-- 🪪 **Identity migration to SSO** — moved manual IAM users to JumpCloud SSO with role/group-based
-  access and centralized, audit-ready identity.
+- 🔐 **[SSL/TLS Certificate Rotation Automation](https://github.com/davisle345/ssl-cert-rotation)** (PowerShell · AWS)
+  — automates certificate *deployment* on IIS: pulls a PFX from S3, imports it with secure key
+  handling, verifies the key before re-pointing every HTTPS binding, and cleans up so no private key
+  is left on disk. Includes a manual runbook for Nginx/Linux.
+
+- 🤖 **[DDQ RAG Assistant](https://github.com/davisle345/ddq-rag-assistant)** (Python · LangChain · FAISS · AWS Bedrock)
+  — turns a company's past due-diligence and security questionnaires into a searchable answer engine.
+  Uses retrieval-augmented generation to draft cited, copy-ready answers with a confidence score,
+  cutting hours of repetitive work to seconds. Ships with synthetic sample data.
 
 ---
 
