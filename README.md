@@ -64,6 +64,12 @@ Open to **Systems Administrator, IT Engineer, and Cloud/IT Operations** roles in
   Uses retrieval-augmented generation to draft cited, copy-ready answers with a confidence score,
   cutting hours of repetitive work to seconds. Ships with synthetic sample data.
 
+- 📊 **[Service Desk Analytics](https://github.com/davisle345/service-desk-analytics)** (Python · pandas · Streamlit · SQLite)
+  — turns years of raw IT support tickets into an interactive dashboard that shows what's driving the
+  workload, how fast issues get resolved, and where automation would pay off. Sanitizes the export
+  first (identities hashed, free text dropped), computes service KPIs and SLA compliance, and
+  generates an automated performance report. Built on real, fully anonymized tickets.
+
 ---
 
 ## 📫 Let's Connect
