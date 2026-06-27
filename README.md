@@ -1,6 +1,6 @@
 # Hi there, I'm Davis 👋
 
-🖥️ **IT Operations Analyst** building and running IT end-to-end for a fast-moving SaaS company
+🖥️ **IT Operations Analyst** managing devices, identity, cloud, and security for a fast-moving SaaS company
 ☁️ Cloud · Identity & Access · Endpoint Security · Automation
 🎓 Pursuing my M.S. in Data Analytics (Data Engineering) @ WGU
 
@@ -10,10 +10,12 @@
 
 ## 💻 About Me
 
-I keep a SaaS company running — owning device lifecycle, identity and access management,
+- A San Jose State University (SJSU) alumni
+- B.S. in Management Information Systems (MIS)
+- I keep a SaaS company running — owning device lifecycle, identity and access management,
 endpoint security, and the automation that ties it all together. I like turning manual,
 error-prone work into reliable scripts, keeping access clean and least-privilege, and staying
-audit-ready (SOC 2, HIPAA).
+audit-ready (SOC 2, HIPAA)
 
 Open to **Systems Administrator, IT Engineer, and Cloud/IT Operations** roles in the San Jose Bay Area.
 
